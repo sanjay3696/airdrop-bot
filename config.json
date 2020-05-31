@@ -3,6 +3,6 @@
     "admins" : ["ADMIN USERNAMES (ARRAY)"],
     "intro" : "YOUR INTRO HERE",
     "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "signup" : 1,
+    "ref" : 0.5
 }
