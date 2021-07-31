@@ -1,8 +1,8 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
-    "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
+    "token" : "1769623743:AAGjo7s5QqqX-dg0CjAY4NSL3eJt7bu1gsU",
+    "admins" : ["@iamrealsanjay"],
+    "intro" : "Garamx Airdrop",
+    "botname" :"Garamx Airdrop",
     "signup" : 1,
     "ref" : 0.5
 }
